@@ -1,0 +1,1 @@
+echo 'Write-Host "Hello World!"' > test.ps1
